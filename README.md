@@ -22,8 +22,8 @@
 
 Для взаимодействия с API используйте HTTP-запросы по эндпоинтам:
 
-- POST /users - создать пользователя
-- POST /events - создать событие
-- POST /bookings - забронировать место
-- GET /events/{id}/participants - список участников события
+- `POST /users` - создать пользователя
+- `POST /events` - создать событие
+- `POST /bookings` - забронировать место
+- `GET /events/{id}/participants` - список участников события
 
